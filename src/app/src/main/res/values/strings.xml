@@ -15,4 +15,5 @@
     <string name="go_all_in">GO ALL IN</string>
     <string name="on_go_all_out">ON GO ALL OUT</string>
     <string name="find_a_team">Find a team in your city and dominate the league</string>
+    <string name="search_text">Looking for a men\'s beginner league near You...</string>
 </resources>
